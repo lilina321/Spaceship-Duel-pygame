@@ -2,7 +2,7 @@
 
 An 2D shooting game created with pygame.
 
-![spaceships](./SpaceshipDuel.png)
+![spaceships](./Graphics/SpaceshipDuel.png)
 
 # Inspiration
 This game is based on TechWithTim Tutorial - PygameForBeginners.
